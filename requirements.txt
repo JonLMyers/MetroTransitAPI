@@ -1,0 +1,8 @@
+flask
+flask-restful
+mongoengine
+requests
+flask_jwt_extended
+pytz
+mongomock
+flask_cors
